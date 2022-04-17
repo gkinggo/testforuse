@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
-  printf("It's comming~");
+  for(int i=0; i<10; i++){
+    printf("It's comming~");
+  }
   return 0;
 }
